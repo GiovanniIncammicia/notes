@@ -14,5 +14,5 @@
   },
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
-  "foam.edit.linkReferenceDefinitions": "withExtensions"
+  "foam.edit.linkReferenceDefinitions": "withoutExtensions"
 }
